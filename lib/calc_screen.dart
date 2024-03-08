@@ -25,7 +25,7 @@ class _CalcAgeState extends State<CalcAge> {
   Widget button() {
     return ElevatedButton(
       onPressed: onSubmit,
-      child: const Text('Calculate'),
+      child: const Text('Calculate 🔢'),
     );
   }
 
